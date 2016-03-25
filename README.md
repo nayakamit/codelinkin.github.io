@@ -1,2 +1,2 @@
 # codelink.github.io
-Codelink.in
+codelink.in
