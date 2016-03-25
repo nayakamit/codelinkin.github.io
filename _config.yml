@@ -1,2 +1,9 @@
-markdown: rdiscount
-highlighter: pygments
+# Post settings
+excerpt_separator: <!--more-->
+
+# Build settings
+markdown: kramdown
+
+# Sass settings
+sass:
+    style: :compressed
