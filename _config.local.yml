@@ -1,9 +1,10 @@
 # Site settings
 port: 80
 baseurl: ""
-url: "http://codelink.in" # the base hostname & protocol for your site
+url: "http://localhost" # the base hostname & protocol for your site
 title: "Coding thoughts"
 description: "We codelinker, code and solve the real world problems."
+
 
 # Post settings
 excerpt_separator: <!--more-->
