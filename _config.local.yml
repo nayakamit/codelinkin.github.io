@@ -2,8 +2,8 @@
 port: 80
 baseurl: ""
 url: "http://localhost" # the base hostname & protocol for your site
-title: "Coding thoughts"
-description: "We codelinker, code and solve the real world problems."
+title: "Codelink Blog"
+description: "Insights from Codelinkers into our products, technology, and the Codelink culture."
 
 
 # Post settings
